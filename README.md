@@ -11,11 +11,11 @@ const amado = {
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "material-ui", "SASS", "Less"]
+            css: ["bootstrap", "material-ui", "SASS", "Less"],
             js: ["react", "redux"]
         },
         backEnd: {
-            js: ["firebase", "node", "gcloud", "express", "mongoose"]
+            js: ["firebase", "node", "gcloud", "express", "mongoose"],
             api: ["telegram-bot-api", "aiogram"]
         }        
     }
