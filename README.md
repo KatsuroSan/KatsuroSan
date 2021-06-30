@@ -7,14 +7,16 @@
 ```javascript
 const amado = {
     pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS],
+    code: [Javascript, Python, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            css: ["bootstrap", "material-ui", "SASS", "Less"]
+            js: ["react", "redux"]
         },
         backEnd: {
-            js: ["firebase", "node"]
+            js: ["firebase", "node", "gcloud", "express", "mongoose"]
+            api: ["telegram-bot-api", "aiogram"]
         }        
     }
 };
