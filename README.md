@@ -7,7 +7,7 @@
 ```javascript
 const oyabun = {
     pronouns: "he" | "him",
-    code: [Javascript, Python, HTML, CSS],
+    code: [Javascript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
