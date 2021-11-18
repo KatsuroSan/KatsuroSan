@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm katsuro, a passionate frontend developer
+## Hi there 👋 Welcome to my GitHub! I'm Katsuro, a passionate frontend developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katsuro&label=Profile%20views&color=0e75b6&style=flat" alt="katsuro" /> </p>
 
