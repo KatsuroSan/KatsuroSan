@@ -7,11 +7,11 @@
 ```javascript
 const Katsuro = {
     pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS],
+    code: [Javascript, TypeScript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "material-ui", "Ant design", "SASS", "Less",],
+            css: ["bootstrap", "material-ui", "Ant design", "SASS", "Less"],
             js: ["react", "redux", "Next JS"]
         },
         backEnd: {
