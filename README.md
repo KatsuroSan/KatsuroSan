@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Katsuro, a passionate web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katsuro&label=Profile%20views&color=0e75b6&style=flat" alt="katsuro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KatsuroSan&label=Profile%20views&color=0e75b6&style=flat" alt="katsuro" /> </p>
 
 ### aboutMe.js
 
@@ -8,14 +8,14 @@
 const Katsuro = {
     pronouns: "he" | "him",
     code: [Javascript, TypeScript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+    askMeAbout: ["web dev", "tech", "music", "coffee"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "material-ui", "Ant design", "SASS", "Less"],
             js: ["react", "redux", "Next JS"]
         },
         backEnd: {
-            js: ["firebase", "node", "gcloud", "express", "mongoose", "Nest JS"],
+            js: ["node", "firebase", "gcloud", "express", "mongoose", "Nest JS"],
             api: ["telegram-bot-api", "aiogram"]
         }        
     }
