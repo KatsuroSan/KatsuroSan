@@ -11,11 +11,11 @@ const oyabun = {
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "material-ui", "SASS", "Less"],
-            js: ["react", "redux"]
+            css: ["bootstrap", "material-ui", "Ant design", "SASS", "Less",],
+            js: ["react", "redux", "Next JS"]
         },
         backEnd: {
-            js: ["firebase", "node", "gcloud", "express", "mongoose"],
+            js: ["firebase", "node", "gcloud", "express", "mongoose", "Nest JS"],
             api: ["telegram-bot-api", "aiogram"]
         }        
     }
