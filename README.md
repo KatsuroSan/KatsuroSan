@@ -1,11 +1,11 @@
-## Hi there 👋 Welcome to my GitHub! I'm Katsuro, a passionate web developer
+## Hi there 👋 Welcome to my GitHub! I'm Qatsuro, a passionate web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KatsuroSan&label=Profile%20views&color=0e75b6&style=flat" alt="katsuro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qatsuro&label=Profile%20views&color=0e75b6&style=flat" alt="qatsuro" /> </p>
 
 ### aboutMe.js
 
 ```javascript
-const Katsuro = {
+const qatsuro = {
     pronouns: "he" | "him",
     code: [Javascript, TypeScript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "music", "coffee"],
