@@ -11,8 +11,8 @@ const qatsuro = {
     askMeAbout: ["web dev", "tech", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "material-ui", "Ant design", "SASS", "Less"],
-            js: ["react", "redux", "Next JS"]
+            css: ["bootstrap", "mui", "Ant design", "SASS", "Less", "tailwind", "chakra"],
+            js: ["react", "redux", "Next JS", "web3"]
         },
         backEnd: {
             js: ["node", "firebase", "gcloud", "express", "mongoose", "Nest JS"],
