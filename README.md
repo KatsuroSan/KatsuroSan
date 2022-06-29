@@ -6,7 +6,7 @@
 ### aboutMe.js
 
 ```javascript
-const qatsuro = {
+const k4tsuro = {
     pronouns: "he" | "him",
     code: [Javascript, TypeScript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "music", "coffee"],
