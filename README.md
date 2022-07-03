@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm Qatsuro, a passionate web developer
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my GitHub! I'm Qatsuro, a passionate web developer
 <!--- <img src="https://31.media.tumblr.com/80a27702d2a0e816ce9254fe1406d37d/tumblr_mnr1p8WZux1sn5r0ro1_500.gif"  /> --->
 
 | Visitors | ![Visitor Count](https://profile-counter.glitch.me/{qatsuro}/count.svg) |
