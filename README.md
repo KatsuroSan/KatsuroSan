@@ -30,8 +30,8 @@ const Qatsuro = {
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qatsuro&theme=github_dark" alt="qatsuro" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="Qatsuro" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="Qatsuro" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="Qatsuro" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="Qatsuro" /></p>
 
 <!---
 <h3 align="left">Languages and Tools:</h3>
