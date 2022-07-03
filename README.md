@@ -26,12 +26,12 @@ const Qatsuro = {
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
-  <summary><b>🔎 Github Profile Details</b></summary>
+  <div><summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qatsuro&theme=github_dark" alt="qatsuro" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="qatsuro" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="qatsuro" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="qatsuro" align = "center"/></p></div>
 
 <div align="center">
   <h3>
