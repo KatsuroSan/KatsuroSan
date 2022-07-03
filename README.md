@@ -30,10 +30,8 @@ const Qatsuro = {
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qatsuro&theme=github_dark" alt="qatsuro" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<div align="center">
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="qatsuro" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="qatsuro" /></p>
-</div>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="qatsuro" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="qatsuro" align = "center"/></p>
 
 <div align="center">
   <h3>
