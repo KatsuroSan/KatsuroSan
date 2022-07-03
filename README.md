@@ -1,8 +1,8 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Qatsuro, a passionate web developer
 <img src="https://31.media.tumblr.com/80a27702d2a0e816ce9254fe1406d37d/tumblr_mnr1p8WZux1sn5r0ro1_500.gif"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qatsuro&label=Profile%20views&color=0e75b6&style=flat" alt="qatsuro" /> </p>
-
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=qatsuro&label=Profile%20views&color=0e75b6&style=flat" alt="qatsuro" /> </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Qatsuro" align = "center"/></p>
 ### aboutMe.js
 
 ```javascript
