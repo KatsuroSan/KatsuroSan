@@ -31,8 +31,8 @@ const Qatsuro = {
 
   <summary><b>⚡ Github Stats</b></summary>
 <div align="center">
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="qatsuro" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="qatsuro" /></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="qatsuro" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="qatsuro" /></p>
 </div>
 
 <div align="center">
