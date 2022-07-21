@@ -65,8 +65,3 @@ const Qatsuro = {
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   
 </div>
-
-
-<p align="center">
-Check out my repos ⬇️  
-</p>
