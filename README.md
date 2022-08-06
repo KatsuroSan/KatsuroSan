@@ -1,4 +1,5 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my GitHub!
+ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my GitHub!
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%27m+Qatsuro%2C+a+passionate+web+developer%20&fontAlignY=40&fontSize=30&color=gradient)
 <!--- <img src="https://31.media.tumblr.com/80a27702d2a0e816ce9254fe1406d37d/tumblr_mnr1p8WZux1sn5r0ro1_500.gif"  /> --->
 
@@ -26,7 +27,7 @@ const Qatsuro = {
 ```
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-	
+(https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qatsuro&theme=github_dark" alt="qatsuro" align = "center"/></p>
 
