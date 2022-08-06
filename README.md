@@ -6,8 +6,11 @@
 | Visitors | ![Visitor Count](https://profile-counter.glitch.me/{qatsuro}/count.svg) |
 |---|---|
 
-<summary><b>🧑 About me</b></summary>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
+<details close="true">
+  <summary><b>🧑 About me</b></summary>
+ 
 ```javascript
 const Qatsuro = {
     pronouns: "he" | "him",
@@ -25,9 +28,11 @@ const Qatsuro = {
     }
 };
 ```
+ 
+ </details>
 
-<h2>ℹ️ &nbsp;Github Info</h2>
-(https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+<details>
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qatsuro&theme=github_dark" alt="qatsuro" align = "center"/></p>
 
@@ -35,6 +40,9 @@ const Qatsuro = {
 <p align="center"><img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="qatsuro" align = "center"/>
 <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="qatsuro" align = "center"/></p>
 
+</details>
+<details>
+   <summary><b>:gear: Skills</b></summary>
 
 <div align="center">
   <h3>
@@ -67,3 +75,4 @@ const Qatsuro = {
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   
 </div>
+</details>
