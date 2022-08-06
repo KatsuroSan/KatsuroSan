@@ -8,6 +8,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontAlign=5&fontColor=703ee5&text=You&height=60&fontSize=40&desc=can%20find%20out%20more%20below%20⬇️&descAlignY=55&descAlign=25)
+
 <details close="true">
   <summary><b>🧑 About me</b></summary>
  
