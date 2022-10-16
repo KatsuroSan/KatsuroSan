@@ -1,9 +1,9 @@
  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my GitHub!
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%27m+Qatsuro%2C+a+passionate+web+developer%20&fontAlignY=40&fontSize=30&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%27m+ihlaya%2C+a+passionate+web+developer%20&fontAlignY=40&fontSize=30&color=gradient)
 <!--- <img src="https://31.media.tumblr.com/80a27702d2a0e816ce9254fe1406d37d/tumblr_mnr1p8WZux1sn5r0ro1_500.gif"  /> --->
 
-| Visitors | ![Visitor Count](https://profile-counter.glitch.me/{qatsuro}/count.svg) |
+| Visitors | ![Visitor Count](https://profile-counter.glitch.me/{ihlaya}/count.svg) |
 |---|---|
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
@@ -14,7 +14,7 @@
   <summary><b>🧑 About me</b></summary>
  
 ```javascript
-const Qatsuro = {
+const ihlaya = {
     pronouns: "he" | "him",
     code: [Javascript, TypeScript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "music", "coffee"],
@@ -36,11 +36,11 @@ const Qatsuro = {
 
 <details>
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qatsuro&theme=github_dark" alt="qatsuro" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihlaya&theme=github_dark" alt="ihlaya" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=qatsuro&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="qatsuro" align = "center"/>
-<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=qatsuro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="qatsuro" align = "center"/></p>
+<p align="center"><img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=ihlaya&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="ihlaya" align = "center"/>
+<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihlaya&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="ihlaya" align = "center"/></p>
 
 </details>
 <details>
