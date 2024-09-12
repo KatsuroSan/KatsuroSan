@@ -10,30 +10,6 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontAlign=5&fontColor=703ee5&text=You&height=60&fontSize=40&desc=can%20find%20out%20more%20below%20⬇️&descAlignY=55&descAlign=25)
 
-<details close="true">
-  <summary><b>🧑 About me</b></summary>
- 
-```javascript
-const ihlaya = {
-    pronouns: "he" | "him",
-    code: [Javascript, TypeScript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "music", "coffee"],
-    technologies: {
-        frontEnd: {
-            css: ["bootstrap", "mui", "Ant design", "SASS", "Less", "tailwind", "chakra"],
-            js: ["react", "redux", "redux-toolkit", "Next JS", "web3"]
-        },
-        backEnd: {
-            js: ["node", "firebase", "gcloud", "express", "mongoose", "Nest JS", "MERN"],
-            api: ["telegram-bot-api", "aiogram"]
-        }        
-    }
-};
-```
- 
- </details>
-
-
 <details>
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihlaya&theme=github_dark" alt="ihlaya" align = "center"/></p>
